@@ -29,9 +29,9 @@ How can we effectively detect fraudulent credit card transactions to minimize fi
 
 - **Data Loading and Understanding:** Load the data and understand the features.
 - **Visualizations:** Create visualizations to understand the distribution of features and the presence of fraud in different scenarios.
-<<<<<Transaction_Amount_Distribution>>>>>
-<<<<Fraud_Scenarios>>>>
-<<<<Fraud_vs_NonFraud>>>>
+  Transaction_Amount_Distribution https://github.com/harpreetsohal1/Credit-Card-Fraud/blob/main/output/Transaction_Amount_Distribution.png
+  Fraud_Scenarios   https://github.com/harpreetsohal1/Credit-Card-Fraud/blob/main/output/Fraud_Scenarios.png
+  Fraud vs Non-Fraud Trasactions (https://github.com/harpreetsohal1/Credit-Card-Fraud/blob/main/output/Fraud_vs_NonFraud.png)
 - **Feature Engineering:** Create new features that might be useful for detecting fraud.
 - **Train/Test Split:** Split the dataset into training and testing sets.
 - **Baseline Model:** Train a logistic regression model and evaluate it.
