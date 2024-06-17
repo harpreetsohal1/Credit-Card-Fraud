@@ -69,7 +69,7 @@ The Decision Tree model is the best model for detecting fraudulent transactions,
 ### Outline of project
 
 - [Link to download data](https://github.com/harpreetsohal1/Credit-Card-Fraud/tree/main/simulated-data-csv)
-- [Link to notebook](https://github.com/harpreetsohal1/Credit-Card-Fraud/blob/main/Credit-Card-Fraud_1.ipynb)
+- [Link to notebook](https://github.com/harpreetsohal1/Credit-Card-Fraud/blob/main/Credit-Card-Fraud.ipynb)
 - [Link to visuals](https://github.com/harpreetsohal1/Credit-Card-Fraud/tree/main/output)
 
 ### Contact and Further Information
