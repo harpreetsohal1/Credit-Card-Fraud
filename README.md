@@ -39,9 +39,7 @@ The results show that while both the baseline (Logistic Regression) and simple (
 
 #### Outline of project
 
-- [Link to notebook 1](link-to-notebook-1)
-- [Link to notebook 2](link-to-notebook-2)
-- [Link to notebook 3](link-to-notebook-3)
+- Credit-Card-Fraud notebook (https://github.com/harpreetsohal1/Credit-Card-Fraud/blob/main/Credit-Card-Fraud.ipynb))
 
 ##### Contact and Further Information
 For any questions or further information, please contact Harpreet Sohal.
